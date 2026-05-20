@@ -79,13 +79,13 @@ Key insights:
 - Discount strategies influenced customer purchase frequency
 
 Project Structure:
-├── Dataset
-├── Python Files
-├── SQL Queries
-├── Power BI Dashboard
-├── Project Report
-├── Presentation Deck
-└── README.md
+─ Dataset
+─ Python Files
+─ SQL Queries
+─ Power BI Dashboard
+─ Project Report
+─ Presentation Deck
+─ README.md
 
 This project demonstrates the complete workflow of a professional Data Analyst project and showcases skills required in real-world analytics roles.
 
