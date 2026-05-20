@@ -1,4 +1,4 @@
-# Retail Customer Behavior & Shopping Trends Analysis using SQL, Python, and Power BI
+# Retail Customer Behavior & Shopping Trends Analysis using SQL, Python and Power BI
 
 Overview:
 This project is a complete end-to-end Data Analytics workflow built on a real-world retail customer behavior dataset. The objective was to simulate how data analysts work in companies — from understanding business problems to cleaning data, analyzing trends, building dashboards, and presenting insights to stakeholders. The project combines Python, SQL, and Power BI to transform raw retail data into meaningful business insights and interactive visualizations.
